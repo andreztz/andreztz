@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </table>
 </center>  
 
-<a href="https://www.linkedin.com/in/andreztz"><img src="https://github.com/andreztz/andreztz/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/andreztz)
+<a href="https://www.linkedin.com/in/andreztz"><img src="https://github.com/andreztz/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/andreztz)
 
 
 ![](https://komarev.com/ghpvc/?username=andreztz&color=blue&style=flat)
