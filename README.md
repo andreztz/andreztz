@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 </center>  
 
 
-![](https://komarev.com/ghpvc/?username=andreztz&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=andreztz&color=blue&style=flat)
