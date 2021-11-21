@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+-->
+
 <center>
 <table>
     <tr>
@@ -23,19 +27,6 @@ Here are some ideas to get you started:
     </tr>   
 </table>
 </center>  
-
--->
-
-
-
-<div align="center"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreztz&hide=html&layout=compact&theme=buefy" /></div>
-<div align="center"><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=andreztz&theme=buefy"/>
-</div>
-
-
-
-
-
 <div align="center"><img src="https://media.giphy.com/media/udhngZK2IFTc4/giphy.gif" /></div>
 <br>
 <div align="center">
