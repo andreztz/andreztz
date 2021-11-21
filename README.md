@@ -1,4 +1,4 @@
-
+<h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
 <!--
 **andreztz/andreztz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <center>
 <table>
     <tr>
@@ -28,4 +27,13 @@ Here are some ideas to get you started:
 
 
 
-![](https://komarev.com/ghpvc/?username=andreztz&color=blue&style=flat)
+<div align="center"><img src="https://media.giphy.com/media/udhngZK2IFTc4/giphy.gif" /></div>
+<br>
+<div align="center">
+**📫 Reach me at:**
+
+[![Twitter: ztzandre](https://img.shields.io/twitter/follow/ztzandre?style=social)](https://twitter.com/ztzandre)
+<br />
+[![My Website](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://andreztz.github.io)
+<div align="center"><img src="https://komarev.com/ghpvc/?username=andreztz&color=blue&style=flat" /></div>
+<div>
