@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <center>
 <table>
@@ -24,6 +23,16 @@ Here are some ideas to get you started:
     </tr>   
 </table>
 </center>  
+
+-->
+
+
+
+<div align="left"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreztz&hide=html&layout=compact&theme=buefy" /></div>
+<div align="right"><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=andreztz&theme=buefy"/>
+</div>
+
+
 
 
 
