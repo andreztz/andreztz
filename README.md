@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
--->
-
 <center>
 <table>
     <tr>
@@ -26,7 +22,11 @@ Here are some ideas to get you started:
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=andreztz&theme=buefy"/></td>
     </tr>   
 </table>
-</center>  
+</center> 
+
+-->
+
+ 
 <div align="center"><img src="https://media.giphy.com/media/udhngZK2IFTc4/giphy.gif" /></div>
 <br>
 <div align="center">
