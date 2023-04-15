@@ -1,7 +1,7 @@
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
 
-Welcome to my Github profile! My name is Andre, and I am a technology enthusiast with a passion for exploring and developing innovative solutions.
+Welcome to my Github profile! My name is André, and I am a technology enthusiast with a passion for exploring and developing innovative solutions.
 
 Since the beginning of my journey, I have been using Python and Linux as my primary tools to validate and enhance my ideas. Additionally, I am always seeking to learn new skills and technologies, such as the C language and the automation and configuration tool, Ansible.
 
