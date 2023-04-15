@@ -5,9 +5,9 @@ Welcome to my Github profile! My name is André, and I am a technology enthusias
 
 Since the beginning of my journey, I have been using Python and Linux as my primary tools to validate and enhance my ideas. Additionally, I am always seeking to learn new skills and technologies, such as the C language and the automation and configuration tool, Ansible.
 
-Here on Github, I have shared some of my projects, in which I have been working to improve my programming and development skills. Feel free to check them out and contribute to these projects, or contact me if you have any questions or interest in collaborating on other projects.
+Here on Github, I have shared some of my projects that I have been working on to improve my programming and development skills. Feel free to check them out and contribute to these projects, or contact me if you have any questions.
 
-Thank you for visiting my profile, and I hope our technology journeys can intersect at some point.
+Thank you for visiting my profile.
 
 <!--
 **andreztz/andreztz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
