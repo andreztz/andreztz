@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 </table>
 </center> 
 
--->
+
 
  
 <div align="center"><img src="https://media.giphy.com/media/udhngZK2IFTc4/giphy.gif" /></div>
+-->
 <br>
 <div align="center">
 **📫 Reach me at:**
