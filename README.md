@@ -3,7 +3,7 @@
 
 Welcome to my Github profile! My name is André, and I am a technology enthusiast with a passion for exploring and developing innovative solutions.
 
-Since the beginning of my journey, I have been using Python and Linux as my primary tools to validate and enhance my ideas. Additionally, I am always seeking to learn new skills and technologies, such as the C language and the automation and configuration tool, Ansible.
+Since the beginning of my journey, I have been using Python and Linux as my primary tools to validate and enhance my ideas. Additionally, I am always seeking to learn new skills and technologies, such as the C language and Linux.
 
 Here on Github, I have shared some of my projects that I have been working on to improve my programming and development skills. Feel free to check them out and contribute to these projects, or contact me if you have any questions.
 
